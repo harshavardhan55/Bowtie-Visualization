@@ -1,4 +1,4 @@
-# Bowtie-Visualization
+# Bowtie - Visualization (Approach 2)
 
 # Group 1: Laasya Venugopal, Natalia Walker, Sandra Gyamfuaa Badu, Harshavardhan Chinthapatla, Kanniese Chen
 
